@@ -11,4 +11,4 @@
 
 ### desing, HTML&CSS e gráfico: Petersom
 
-### ideia: Rayssa
+### typescript : Rayssa
